@@ -1,0 +1,12 @@
+*{margin: 0px;padding: 0px}
+.top{
+    display: block;
+    text-align: center;  
+    background-color: #1abebf;
+}
+.container{
+    width: 1200px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
