@@ -1,0 +1,36 @@
+*{margin: 0px;padding: 0px}
+.top{
+    height: 60px;
+    line-height: 60px;
+    background-color: lightcyan;
+    text-align: center;
+}
+.container{
+    width: 400px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../images/timg2.jpg");
+}
+.container .search{
+    width: 280px;
+    height: 30px;
+}
+.container .btn{
+    height: 34px;
+    width: 80px;
+    background-color: aquamarine;
+    border: 1px solid yellow;
+}
+.container .title{
+    color: deepskyblue;
+    margin-top: 15px;
+    padding: 5px 25px;
+}
+.image1{
+    width: 400px;
+}
+.container p{
+    color: #333333;
+    padding:15px;
+}
