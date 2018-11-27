@@ -1,12 +1,51 @@
 *{margin: 0px;padding: 0px}
 .top{
-    display: block;
-    text-align: center;  
-    background-color: #1abebf;
+    height: 60px;
+    width: 100%;
+    background: #1abebf url("../images/logo.png") no-repeat center center;
 }
 .container{
-    width: 1200px;
-    height: 60px;
+    width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+.container h4{
+    margin-top: 20px;
+    font-family: "微软雅黑";
+    font-size: 24px;
+    color: #505050;
+}
+.container .author{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #bbbbbb;
+}
+.container .img2{
+    width: 100%;
+}
+.container .content{
+    text-indent: 24px;
+    line-height: 30px;
+    font-size: 15px;
+    color: #666666;
+}
+.pad{
+    height: 30px;
+}
+.table{
+    margin-top: 24px;
+    width: 100%;
+    line-height: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.th1{
+    background-color: #ff8201;
+    color: white;
+}
+.th2,td{
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid black;
 }
